@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NHL stats</string>
+    <string name="stats_button">Show Stats</string>
+    <string name="NHL_team">Team</string>
+    <string name="NHL_stat">Stats</string>
+
+</resources>
